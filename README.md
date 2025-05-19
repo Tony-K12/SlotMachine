@@ -1,2 +1,3 @@
-# SlotMachine
-Created by Antony Allwin Joshuva — For interview only
+### ⚠ Disclaimer
+This project was built for interview purposes by Antony Allwin Joshuva.
+Do not use, distribute, or reproduce it without explicit permission.
